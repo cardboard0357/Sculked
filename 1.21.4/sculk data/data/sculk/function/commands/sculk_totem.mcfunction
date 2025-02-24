@@ -1,0 +1,1 @@
+loot give @s loot sculk:sculk_totem

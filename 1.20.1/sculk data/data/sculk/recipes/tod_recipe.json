@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " g ",
+        "ETE",
+        " n "
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "E": {
+            "item": "minecraft:echo_shard"
+        },
+        "T": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "n": {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

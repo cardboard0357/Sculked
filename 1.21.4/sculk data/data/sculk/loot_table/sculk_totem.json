@@ -1,0 +1,19 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "name": "totem_of_undying",
+                    "type": "item",
+                    "functions": [
+                        {
+                            "function": "set_components",
+                            "components": {"item_name":"{\"color\":\"dark_blue\",\"italic\":false,\"text\":\"Totem of Distortion\"}","custom_data":{"sculk_totem":1},"item_model":"sculk:totem_of_distortion"}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

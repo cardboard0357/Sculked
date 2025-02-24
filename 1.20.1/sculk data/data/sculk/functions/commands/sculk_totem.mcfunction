@@ -1,0 +1,1 @@
+give @s totem_of_undying{display:{Name:'{"text":"Totem Of Distortion","color":"dark_blue","italic":false}'},CustomModelData:36735001,sculk:1b} 1

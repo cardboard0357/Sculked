@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "goldenpotatoeat": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "items": "minecraft:milk_bucket"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "sculk:milk_dink"
+    }
+}

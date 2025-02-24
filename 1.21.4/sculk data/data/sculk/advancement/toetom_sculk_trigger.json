@@ -1,0 +1,27 @@
+{
+    "criteria": {
+
+        "used": {
+
+            "trigger": "minecraft:used_totem",
+
+            "conditions": {
+
+                "item": {
+                    "items": "totem_of_undying",
+                    "components": {"custom_data":{"sculk_totem":1}}
+                }
+
+            }
+
+        }
+
+    },
+
+    "rewards": {
+
+        "function": "sculk:sculk_totem_activate"
+
+    }
+
+}

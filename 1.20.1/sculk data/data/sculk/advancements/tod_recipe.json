@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "sculk:tod_recipe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "sculk:tod_crafting"
+    }
+}

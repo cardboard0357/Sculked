@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " g ",
+        "ETE",
+        " n "
+    ],
+    "key": {
+        "g":"minecraft:gold_ingot",
+        "E":"minecraft:echo_shard",
+        "T":"minecraft:totem_of_undying",
+        "n":"minecraft:netherite_scrap"
+    },
+    "result": {
+        "id": "totem_of_undying",
+        "components": {
+            "item_name":"{\"color\":\"dark_blue\",\"italic\":false,\"text\":\"Totem of Distortion\"}",
+            "custom_data":{"sculk_totem":1},
+            "item_model":"sculk:totem_of_distortion"
+        },
+        "count": 1
+
+    }
+}
